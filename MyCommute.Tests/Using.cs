@@ -1,0 +1,14 @@
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading.Tasks;
+global using AutoFixture;
+global using MyCommute.Tests;
+global using NetTopologySuite.Geometries;
+global using NUnit.Framework;
+global using MyCommute.Domain.Services;
+global using MyCommute.Domain.Services.Implementations;
+global using MyCommute.Data.Entities;
+global using MyCommute.Data.Enums;
+global using MyCommute.Domain.Exceptions;
+global using MyCommute.Domain.Models;
